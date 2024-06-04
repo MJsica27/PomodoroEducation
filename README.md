@@ -9,7 +9,7 @@ PomodoroEd: Empowering Education with Pomodoro Technique-Based Learning Platform
 1. Move directory (from root directory)
 
 ```bash
-  cd backend
+  cd server
 ```
 
 2. Create a virtual environment
@@ -54,7 +54,7 @@ PomodoroEd: Empowering Education with Pomodoro Technique-Based Learning Platform
 1. Move directory (from root directory)
 
 ```bash
-  cd frontend
+  cd client
 ```
 
 2. Install dependencies
